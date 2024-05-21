@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **lekchembarro.dev@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, I'm gaming! I enjoy solving puzzles and tackling tricky Challenging. It's a fun way to take a break from coding while still exercising my problem-solving skills!**
+- ⚡ Fun fact **When I'm not coding, I'm gaming! I enjoy solving puzzles and tackling tricky Challenges. It's a fun way to take a break from coding while still exercising my problem-solving skills!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
