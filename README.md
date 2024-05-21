@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lekchem&label=Profile%20views&color=0e75b6&style=flat" alt="lekchem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lekchem" alt="lekchem" /></a> </p>
-
 - 🔭 I’m currently working on [Developing a web application for our Sublimation business, aimed at optimizing workflows and enhancing customer experiences. Stay tuned for updates! 💻](N/A)
 
 - 🌱 I’m currently learning **React Native**
