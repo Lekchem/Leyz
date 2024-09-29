@@ -12,4 +12,4 @@ OP-Survival Email
 - xemevod378@abatido.com(6am)
 - buhecine@teleg.eu (buntag)
 - gusizury@logsmarter.net(gabie)
-- lewyjela@logsmarter.net(gabie)
+- ragavibo@logsmarter.net(gabie)
